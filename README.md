@@ -4,7 +4,7 @@ Hi, I am Ben King - I am currently working as Senior Software Engineer at NHS Bl
 
 My main area of specialty is in C# .NET, with a focus on Azure microservices and infrastructure CICD including Azure DevOps, NuGet, and Terraform.
 
-If you want to get in touch, here are my social links:
+I am also passionate about high-availability technology, having worked with systems ranging from 1980s payments mainframe through to modern Cloud Services, including migrating complex legacy codebases to a supportable modern tech stack - if you do want to get in touch and hear about these experiences or anything similar, here are my social links:
 
 <p>
 
@@ -14,7 +14,7 @@ If you want to get in touch, here are my social links:
 
 ## Open Source
 
-Here you can see the nourishing river of .NET libraries I have published - they are available as C# .NET libraries on NuGet:
+Here you can see the nourishing river of libraries I have published - they are available as C# .NET libraries on NuGet:
 
 - [IsEven](https://www.nuget.org/packages/IsEven)
 - [HueManatee](https://www.nuget.org/packages/HueManatee)
@@ -28,10 +28,7 @@ Here you can see the nourishing river of .NET libraries I have published - they 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
